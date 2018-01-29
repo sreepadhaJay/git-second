@@ -1,4 +1,3 @@
 # git-second
 
-
-not changed
+changed
